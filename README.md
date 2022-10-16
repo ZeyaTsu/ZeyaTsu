@@ -20,7 +20,9 @@ CEO of OpenO1 Organisation
 ## Other projects
 - Alpha, useful python module for maths. (https://github.com/OpenO1/alpha.py)
 - Liquid, an alternative to MEE6 with all the features free.
+- CoffeEnv, python module/environment playing with terminal.
 - Whale (project coming soon)
+
 
 
 Learn more at https://openo1.github.io/

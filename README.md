@@ -17,9 +17,13 @@ CEO of OpenO1 Organisation
 - WumAI, artificial assistant like Amazon's alexa / Google Home (https://github.com/OpenO1/wumAI)
 - Emoless, AI chatbot available to test pubicly on discord (https://discord.gg/BNhVSZZx2B) 
 
+## API
+- French Jokes API (french-jokes-api)
+
 ## Other projects
 - Alpha, useful python module for maths. (https://github.com/OpenO1/alpha.py)
-- Liquid, an alternative to MEE6 with all the features free.
+- pkgs, an alternative to MEE6 with all the features free.
+- FPM, aka FileProject Manager.
 - CoffeEnv, python module/environment playing with terminal.
 - Whale (project coming soon)
 

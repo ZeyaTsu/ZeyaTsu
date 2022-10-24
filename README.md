@@ -5,7 +5,6 @@
 * Python
 * HTML
 * CSS
-* C soon.
 
 
 CEO of OpenO1 Organisation

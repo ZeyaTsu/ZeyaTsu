@@ -7,7 +7,7 @@
 * CSS
 
 
-CEO of OpenO1 Organisation
+OpenO1 Organisation's CEO
 * https://openo1.github.io/
 
 # Current Projects

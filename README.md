@@ -5,4 +5,4 @@ Portfolio https://zeyatsu.github.io/ <br/>
 Learn more at https://openo1.github.io/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyaTsu&layout=compact)](#Statistics) <br/>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZeyaTsu&show_icons=true&include_all_commits=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&count_private=true)](#Statistics)
+

@@ -4,4 +4,4 @@
 Portfolio https://zeyatsu.github.io/ <br/>
 Learn more at https://openo1.github.io/
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyaTsu&layout=compact)](#Statistics) <br/>

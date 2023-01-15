@@ -5,3 +5,8 @@ Portfolio https://zeyatsu.github.io/ <br/>
 Learn more at https://openo1.github.io/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyaTsu&layout=compact)](#Statistics) <br/>
+
+# Themes I use:
+* Python : Everforest / linux terminal flat dark / 
+* HTML/CSS : YuruCamp - Rin / linux terminal flat dark
+* JS : linux terminal flat dark

@@ -4,7 +4,9 @@
 Portfolio https://zeyatsu.github.io/ <br/>
 Learn more at https://openo1.github.io/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyaTsu&layout=compact)](#Statistics) <br/>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyaTsu&layout=compact)](#Statistics) <br/>-->
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sizumita&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sizumita&show_icons=true&theme=tokyonight" />
 
 # Themes I use:
 * Python : Everforest / linux terminal flat dark / 

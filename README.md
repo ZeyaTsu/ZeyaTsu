@@ -3,8 +3,8 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyaTsu&layout=compact)](#Statistics) <br/>-->
 ![:name](https://count.getloli.com/get/@ZeyaTsu?theme=rule34) <br/>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sizumita&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sizumita&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ZeyaTsu&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeyaTsu&show_icons=true&theme=tokyonight" />
 
 Portfolio https://zeyatsu.github.io/ <br/>
 Learn more at https://openo1.github.io/

@@ -10,7 +10,7 @@ Portfolio https://zeyatsu.github.io/ <br/>
 Learn more at https://openo1.github.io/
 
 # Themes I use:
-* Python : Everforest / linux terminal flat dark / 
+* Python : Everforest / linux terminal flat dark / catpuccin mocha (main)
 * HTML/CSS : YuruCamp - Rin / linux terminal flat dark
 * JS : linux terminal flat dark
 

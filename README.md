@@ -7,7 +7,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeyaTsu&show_icons=true&theme=tokyonight" />
 
 Portfolio https://zeyatsu.github.io/ <br/>
-Learn more at https://openo1.github.io/
 
 # Themes I use:
 * Python : Everforest / linux terminal flat dark / catpuccin mocha (main)

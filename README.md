@@ -3,7 +3,7 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyaTsu&layout=compact)](#Statistics) <br/>-->
 ![:name](https://count.getloli.com/get/@ZeyaTsu?theme=rule34) <br/>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ZeyaTsu&theme=tokyonight" />
+<!--<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ZeyaTsu&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeyaTsu&show_icons=true&theme=tokyonight" />
 
 Portfolio https://zeyatsu.github.io/ <br/>
@@ -11,5 +11,5 @@ Portfolio https://zeyatsu.github.io/ <br/>
 # Themes I use:
 * Python : Everforest / linux terminal flat dark / catpuccin mocha (main)
 * HTML/CSS : YuruCamp - Rin / linux terminal flat dark
-* JS : linux terminal flat dark
+* JS : linux terminal flat dark-->
 

@@ -10,7 +10,6 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center;">
-    <img src="https://avatars.githubusercontent.com/u/43354103?s=400&u=1e8e8617d538e55adf75efb6f41ec28c972acdb5&v=4" alt="Profile Picture" width="21.4%">
     <img src="my-senpai-is-annoying-senpai-ga-uzai-kouhai-no-hanashi.gif" alt="Profile Picture" width="25%">
   </div>
 </div>

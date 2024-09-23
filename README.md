@@ -1,18 +1,27 @@
 <!--![readme](https://user-images.githubusercontent.com/43354103/203863744-c1cd95c8-231f-41f1-ae44-fcee37a0b125.png)-->
 <!--![test](https://user-images.githubusercontent.com/43354103/209814081-427a8f00-0fc8-4049-91d0-82c4b5d7fb82.png)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyaTsu&layout=compact)](#Statistics) <br/>-->
-![:name](https://count.getloli.com/get/@ZeyaTsu?theme=rule34) <br/>
----
-
+<!--![:name](https://count.getloli.com/get/@ZeyaTsu?theme=rule34) <br/>-->
 <div align="center">
-  <img src="my-senpai-is-annoying-senpai-ga-uzai-kouhai-no-hanashi.gif" alt="Profile Picture"> <br/>
+  <img src="https://count.getloli.com/get/@ZeyaTsu?theme=rule34"/>
 </div>
 
 ---
+
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <img src="https://avatars.githubusercontent.com/u/43354103?s=400&u=1e8e8617d538e55adf75efb6f41ec28c972acdb5&v=4" alt="Profile Picture" width="21.4%">
+    <img src="my-senpai-is-annoying-senpai-ga-uzai-kouhai-no-hanashi.gif" alt="Profile Picture" width="25%">
+  </div>
+</div>
+
+---
+
 <img src="banner.png"/> 
 
 <img src="uwu.png"/> 
 
+---
 
 <!--<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ZeyaTsu&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeyaTsu&show_icons=true&theme=tokyonight" />

@@ -8,6 +8,13 @@
 
 ---
 
+<p align="center">
+  <img src="mumei.jpg" alt="Mumei" width="25%" style="display: inline-block; margin-right: 0;">
+  <img src="kronii.jpg" alt="Kronii" width="25%" style="display: inline-block;">
+</p>
+
+---
+
 <div align="center">
   <div style="display: flex; justify-content: center;">
     <img src="my-senpai-is-annoying-senpai-ga-uzai-kouhai-no-hanashi.gif" alt="Profile Picture" width="25%">
